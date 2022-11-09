@@ -1,0 +1,16 @@
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.exe
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.deps.json
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.runtimeconfig.json
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.dll
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\bin\Debug\net5.0\HomeWork1.pdb
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.dll
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\obj\Debug\net5.0\refint\HomeWork1.dll
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.pdb
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\obj\Debug\net5.0\HomeWork1.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW1\HomeWork1\HomeWork1\obj\Debug\net5.0\ref\HomeWork1.dll
