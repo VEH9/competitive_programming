@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Threading;
 
@@ -9,41 +10,53 @@ namespace HomeWork1
         public static void Main(string[] args)
         {
             var test = new Test();
-            Test.StartTest();
+            Console.WriteLine(Test.StartTest());
         }
     }
 
    
     public class Test
     {
-        public static Stopwatch stopwatch;
-
-        public Test()
+        private static readonly List<DateTime> Switches = new();
+        private static int previousId;
+    
+        public static double StartTest()
         {
-            stopwatch = new Stopwatch();
+            var process = Process.GetCurrentProcess();
+            process.PriorityClass = ProcessPriorityClass.RealTime;
+            process.ProcessorAffinity = (IntPtr)(1 << 7);
+            var firstThread = new Thread(DoSomeWorks);
+            var secondThread = new Thread(DoSomeWorks);
+            firstThread.Start();
+            secondThread.Start();
+            firstThread.Join();
+            secondThread.Join();
+            
+            var result = 0.0;
+            for (var i = 0; i < Switches.Count - 1; i++)
+            {
+                var time = Switches[i + 1] - Switches[i];
+                result += time.TotalMilliseconds;
+            }
+
+            return result / Switches.Count;
         }
-
-        public static void StartTest()
+        
+        private static void DoSomeWorks()
         {
-            Process.GetCurrentProcess().PriorityClass = ProcessPriorityClass.RealTime;
-            Process.GetCurrentProcess().ProcessorAffinity = (IntPtr) (1 << (Environment.ProcessorCount - 1));
-            var thread1 = new Thread(SlowMethod) {Priority = ThreadPriority.Highest};
-            var thread2 = new Thread(StopTimer) {Priority = ThreadPriority.Highest};
+            var threadId = Environment.CurrentManagedThreadId;
+            var stopwatch = new Stopwatch();
             stopwatch.Start();
-            thread1.Start();
-            thread2.Start();
-            thread2.Join();
-            Console.WriteLine(stopwatch.ElapsedMilliseconds);
-        }
 
-        private static void SlowMethod() 
-        {
-            Thread.Sleep(1000);
-        }
-
-        private static void StopTimer() 
-        {
-            stopwatch.Stop();
+            while (stopwatch.Elapsed < TimeSpan.FromSeconds(2))
+            {
+                lock (Switches)
+                {
+                    if (threadId == previousId) continue;
+                    Switches.Add(DateTime.Now);
+                    previousId = threadId;
+                }
+            }
         }
     }
 }
