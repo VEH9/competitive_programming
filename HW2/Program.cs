@@ -9,7 +9,7 @@ namespace HW2
     {
         private static void Main()
         {
-            
+
         }
     }
 
@@ -56,7 +56,7 @@ namespace HW2
                     Monitor.Exit(blockedObject);
         }
     }
-    
+
     public interface IMultiLock
     {
         public IDisposable AcquireLock(params string[] keys);
