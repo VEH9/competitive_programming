@@ -19,21 +19,22 @@ namespace HW3
         {
             get 
             {
+                var count = 0;
                 var currentNode = root;
                 while (true)
                 {
                     if (currentNode is null)
                         break;
+                    count++;
                     currentNode = currentNode.Next;
                 }
-                return currentNode.index;
+                return count;
             }
         }
         private class Node<T> 
         { 
             public Node<T> Next;
             public T Value;
-            public int index = 0;
 
             public Node(T value)
             {
@@ -50,7 +51,6 @@ namespace HW3
             {
                 var head = root;
                 node.Next = head;
-                node.index = head.index + 1;
                 if (Interlocked.CompareExchange(ref root, node, head) == head)
                     return;
                 spin.SpinOnce();
@@ -75,5 +75,6 @@ namespace HW3
                 spin.SpinOnce();
             }
         }
+    }
     }
 }
