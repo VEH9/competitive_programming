@@ -1,0 +1,14 @@
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.exe
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.deps.json
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.runtimeconfig.json
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.dll
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\bin\Debug\netcoreapp3.1\CustomThreadPool.pdb
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.dll
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.pdb
+C:\Users\Ivan\Desktop\HW4\CustomThreadPool\obj\Debug\netcoreapp3.1\CustomThreadPool.genruntimeconfig.cache
