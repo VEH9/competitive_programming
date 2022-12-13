@@ -1,0 +1,14 @@
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\bin\Debug\netcoreapp3.1\DataParallelismTask.exe
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\bin\Debug\netcoreapp3.1\DataParallelismTask.deps.json
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\bin\Debug\netcoreapp3.1\DataParallelismTask.runtimeconfig.json
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\bin\Debug\netcoreapp3.1\DataParallelismTask.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\bin\Debug\netcoreapp3.1\DataParallelismTask.dll
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\bin\Debug\netcoreapp3.1\DataParallelismTask.pdb
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\obj\Debug\netcoreapp3.1\DataParallelismTask.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\obj\Debug\netcoreapp3.1\DataParallelismTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\obj\Debug\netcoreapp3.1\DataParallelismTask.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\obj\Debug\netcoreapp3.1\DataParallelismTask.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\obj\Debug\netcoreapp3.1\DataParallelismTask.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\obj\Debug\netcoreapp3.1\DataParallelismTask.dll
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\obj\Debug\netcoreapp3.1\DataParallelismTask.pdb
+C:\Users\Ivan\Desktop\конкурентное\competitive_programming\HW5\DataParallelismTask\obj\Debug\netcoreapp3.1\DataParallelismTask.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ivan\\Desktop\\HW4\\CustomThreadPool\\CustomThreadPool.csproj": {}
+    "C:\\Users\\Ivan\\Desktop\\конкурентное\\competitive_programming\\HW4\\CustomThreadPool\\CustomThreadPool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ivan\\Desktop\\HW4\\CustomThreadPool\\CustomThreadPool.csproj": {
+    "C:\\Users\\Ivan\\Desktop\\конкурентное\\competitive_programming\\HW4\\CustomThreadPool\\CustomThreadPool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\HW4\\CustomThreadPool\\CustomThreadPool.csproj",
+        "projectUniqueName": "C:\\Users\\Ivan\\Desktop\\конкурентное\\competitive_programming\\HW4\\CustomThreadPool\\CustomThreadPool.csproj",
         "projectName": "CustomThreadPool",
-        "projectPath": "C:\\Users\\Ivan\\Desktop\\HW4\\CustomThreadPool\\CustomThreadPool.csproj",
+        "projectPath": "C:\\Users\\Ivan\\Desktop\\конкурентное\\competitive_programming\\HW4\\CustomThreadPool\\CustomThreadPool.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ivan\\Desktop\\HW4\\CustomThreadPool\\obj\\",
+        "outputPath": "C:\\Users\\Ivan\\Desktop\\конкурентное\\competitive_programming\\HW4\\CustomThreadPool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
